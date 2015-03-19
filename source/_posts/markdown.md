@@ -1,8 +1,7 @@
-title: "markdown"
+title: "Markdown"
 date: 2015-03-19 09:35:12
 tags:
 ---
-#Markdown
 #####**What is it and how does it work?**
 
 Well I don't have very much time this so I might add to it later so I'm just going to shove some words at your face and be done with it. Markdown is a simple, lightweight plain text editor designed to be as readable as possible. It has a few simple formatting syntaxes like:
