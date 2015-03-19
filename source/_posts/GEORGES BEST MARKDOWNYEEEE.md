@@ -12,3 +12,5 @@ Well I don't have very much time this so I might add to it later so I'm just goi
 #####will be
 
 There are a bunch of other things too, like > for quotes, asterisks for *italics*, and double asterisks for **bold text.**
+
+~ George K

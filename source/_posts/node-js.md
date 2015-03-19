@@ -10,3 +10,6 @@ Some examples of popular modules include...
 
 1. *Express* - a Sinatra-inspired web development framework for Node.js, and the de-facto standard for the majority of Node.js applications out there today.
 2. *Socket.io and sockjs* - Server-side component of the two most common websockets components out there today.
+3. *Hexo* The thing we're using for this blog! It makes everything lovely yet very confusing unless the other George is here to work his wizardry.
+
+~ George K
