@@ -21,3 +21,5 @@ Now there is a slight caviet to this rule, it's that you're not *really* being l
 You don't want to give yourself unnecessary work when you could be doing something else, but you still want to make something that works. If someone else has already made and shared something that conveniently solves your problem, then use it! There's no need to start from scratch if the foundations are available to you. Furthermore, try not to *prematurely optimise* your work. This is when you have a script that functions exactly as intended, yet you still feel compelled to make it simple and pretty and nice. Well don't, there's no need and you're just wasting time.
 
 Boom, you just became a software engineer. You're welcome.
+
+~ George K
