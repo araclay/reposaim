@@ -2,7 +2,6 @@ title: "Problem Solving and Being Lazy"
 date: 2015-03-19 09:34:29
 tags:
 ---
-#Problem Solving and Being Lazy
 ###The golden rules of Software Engineering
 
 So we had our first session of Software Engineering today with *Sir* Billy. He told us about what he believes to be the most important rules in the Software Engineering.

@@ -1,8 +1,7 @@
-title: "node.js"
+title: "Why Node.js is great"
 date: 2015-03-19 09:32:28
 tags:
 ---
-#Why Node.js is great
 ####Node Package Managers
 
 Node Package Managers (NPMs) are a neat part of node.js. NPMs are a set of publicly available, reusable components, available through easy installation via an online repository, with version and dependency management. What this means is that if you need to make a piece of code to perform a certain task, there's most likely somebody else out there who's already made said code and published it to the module ecosystem. All of these modules are accessible via the https://npmjs.org/ website, and can be installed at your leisure.
