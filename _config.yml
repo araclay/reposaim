@@ -69,4 +69,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/araclay/reposaim.git
-branch: gh-pages
+branch: master
